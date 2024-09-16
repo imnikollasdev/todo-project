@@ -2,7 +2,6 @@ import * as C from './style.ts'
 import { TiClipboard } from 'react-icons/ti'
 import TaskItem from '../task/';
 
-
 import { useAutoAnimate } from '@formkit/auto-animate/react'
 
 export interface TaskType {
