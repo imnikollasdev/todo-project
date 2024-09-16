@@ -4,7 +4,6 @@ import TaskItem from '../task/';
 
 
 import { useAutoAnimate } from '@formkit/auto-animate/react'
-import { useToast } from 'react-toastify';
 
 export interface TaskType {
     text: string;
